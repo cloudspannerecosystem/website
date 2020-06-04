@@ -4,15 +4,15 @@ type: "index"
 ---
 
 The [Cloud Spanner Ecosystem](https://github.com/cloudspannerecosystem)
-GitHub organization hosts a collection of public 
+GitHub organization hosts a collection of public
 repositories that are owned-by and
 developed-for the [Google Cloud Spanner](https://cloud.google.com/spanner)
 user community.
 
-All the hosted projects are based on open source contributions. 
-We’d love for you to report issues, file feature requests, 
-and send pull requests. See details on [contributions](/contributing). 
-Note that none of the projects are officially supported by Google 
+All the hosted projects are based on open source contributions.
+We’d love for you to report issues, file feature requests,
+and send pull requests. See details on [contributions](/contributing).
+Note that none of the projects are officially supported by Google
 as part of the Cloud Spanner product.
 Please [let us know](https://gitter.im/cloudspannerecosystem/community)
 if you’re interested in getting your project hosted! This will help other
@@ -21,12 +21,12 @@ Cloud Spanner developers find your project and contribute to it.
 # Projects
 
 * [SampleDB](https://github.com/cloudspannerecosystem/sampledb):
-  This application allows you to quickly get a sample database 
+  This application allows you to quickly get a sample database
   into Cloud Spanner. It does so by loading data from a CSV file
   into a new Cloud Spanner database.
 
 * [App Engine Java Sample](https://github.com/cloudspannerecosystem/appengine-java-sample):
-  This sample demonstrates how to use Cloud Spanner 
+  This sample demonstrates how to use Cloud Spanner
   from the App Engine Standard with Java 11 environment.
 
 * [HarbourBridge](https://github.com/cloudspannerecosystem/harbourbridge):
@@ -36,10 +36,10 @@ Cloud Spanner developers find your project and contribute to it.
   a new Spanner database populated with data from pg_dump.
 
 * [spanner-cli](https://github.com/cloudspannerecosystem/spanner-cli):
-  spanner-cli is an interactive command line tool, inspired by the 
+  spanner-cli is an interactive command line tool, inspired by the
   mysql utility. It allows you to control your Cloud Spanner
   databases with idiomatic database commands, such as SHOW TABLES or
-  SELECT/INSERT/UPDATE/DELETE.
+  SELECT / INSERT / UPDATE / DELETE.
 
 * [spanner-dump](https://github.com/cloudspannerecosystem/spanner-dump):
   spanner-dump is a command line tool for exporting a Cloud Spanner
@@ -50,7 +50,7 @@ Cloud Spanner developers find your project and contribute to it.
   Cloud Spanner again with [spanner-cli](https://github.com/cloudspannerecosystem/spanner-cli).
 
 * [PGAdapter](https://github.com/cloudspannerecosystem/pgadapter):
-  PGAdapter is a client-side Java proxy which translates 
+  PGAdapter is a client-side Java proxy which translates
   Postgres wire protocol into the Cloud Spanner equivalent.
   By running this proxy locally, any Postgres client
   (including the SQL command-line client PSQL) should function
@@ -66,12 +66,13 @@ Cloud Spanner developers find your project and contribute to it.
 * [yo](https://github.com/cloudspannerecosystem/yo):
   yo is a command-line tool to generate database-specific code
   to access Cloud Spanner through Go objects instead of SQL queries.
-  It does so by fetching schema metadata for a database by 
+  It does so by fetching schema metadata for a database by
   querying the information schema and applies Go templates to
   generate code / models.
 
 * [Scheduled Backups](https://github.com/cloudspannerecosystem/scheduled-backups):
-  Scheduled Backups shows how to use Cloud Scheduler and Cloud Functions to configure a schedule for creating Cloud Spanner backups.
+  Scheduled Backups shows how to use Cloud Scheduler and Cloud Functions to
+  configure a schedule for creating Cloud Spanner backups.
 
 # Resources
 
@@ -129,7 +130,7 @@ Cloud Spanner developers find your project and contribute to it.
 
 ## Migration
 
-* Migration from [PostgreSQL](https://cloud.google.com/spanner/docs/migrating-postgres-spanner), [MySQL](https://cloud.google.com/solutions/migrating-mysql-to-spanner), [Oracle](https://cloud.google.com/solutions/migrating-oracle-to-cloud-spanner), [DynomoDB](https://cloud.google.com/solutions/migrating-dynamodb-to-cloud-spanner). 
+* Migration from [PostgreSQL](https://cloud.google.com/spanner/docs/migrating-postgres-spanner), [MySQL](https://cloud.google.com/solutions/migrating-mysql-to-spanner), [Oracle](https://cloud.google.com/solutions/migrating-oracle-to-cloud-spanner), [DynomoDB](https://cloud.google.com/solutions/migrating-dynamodb-to-cloud-spanner).
 * [Harbourbridge](https://github.com/cloudspannerecosystem/harbourbridge) - PostgreSQL to Spanner schema and data migrator.
 * [pgadapter](https://github.com/cloudspannerecosystem/pgadapter) - A proxy that translates the wire protocol from Postgres to Cloud Spanner.
 * [migrate](https://github.com/golang-migrate/migrate) - A migration tool with Spanner support.

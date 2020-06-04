@@ -1,6 +1,3 @@
 all:
 	hugo
-	cd public
-	git add .
-	git commit -m "rebuilding site $(date)"
-	git push origin master
+	cd public && git add . && git commit -m "Rebuilding site." && git push origin master
