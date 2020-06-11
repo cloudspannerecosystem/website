@@ -2,4 +2,4 @@
 
 Static website content for https://cloudspannerecosystem.dev.
 
-To deploy the changes to GitHub Pages, run `make`.
+To deploy the changes to GitHub Pages, run `make deploy`.
