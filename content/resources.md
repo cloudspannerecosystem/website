@@ -35,13 +35,14 @@ title: "Resources"
 
 ### Performance
 
-* June 2020: [Increase visibility into Cloud Spanner performance with transaction stats](https://cloud.google.com/blog/products/databases/database-transaction-stats-in-spanner)
+* Jun 2020: [Increase visibility into Cloud Spanner performance with transaction stats](https://cloud.google.com/blog/products/databases/database-transaction-stats-in-spanner)
 * May 2020: [Use GFE Server-Timing Header in Cloud Spanner Debugging](https://medium.com/google-cloud/use-gfe-server-timing-header-in-cloud-spanner-debugging-d7d891a50642)
 
 ### Developer productivity
 
 * Apr 2020: [Cloud Spanner Emulator](https://medium.com/google-cloud/cloud-spanner-emulator-bf12d141c12)
 * Dec 2019: [Google Cloud Spanner Dialect for Hibernate released](https://in.relation.to/2019/12/18/google-cloud-spanner-dialect/)
+* Nov 2019: [Opening the door to more dev tools for Cloud Spanner](https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner)
 
 ### Migration
 
