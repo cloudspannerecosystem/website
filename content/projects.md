@@ -55,3 +55,8 @@ title: "Projects"
 * [Scheduled Backups](https://github.com/cloudspannerecosystem/scheduled-backups)
   shows how to use Cloud Scheduler and Cloud Functions to
   configure a schedule for creating Cloud Spanner backups.
+
+* [Spanner REST Cmdlets](https://github.com/cloudspannerecosystem/spanner-rest-cmdlets)
+  is a wrapper around the Cloud Spanner REST Api for PowerShell.
+  It allows read / write access to Cloud Spanner using OAuth2 for
+  authentication and runs on all platforms supported by PowerShell Core.
