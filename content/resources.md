@@ -40,6 +40,7 @@ title: "Resources"
 
 ### Developer productivity
 
+* June 2020: [DML and Mutations - a tale of two data altering techniques in Cloud Spanner](https://medium.com/google-cloud/dml-and-mutations-a-tale-of-two-data-altering-techniques-in-cloud-spanner-df13c49f2617)
 * Apr 2020: [Cloud Spanner Emulator](https://medium.com/google-cloud/cloud-spanner-emulator-bf12d141c12)
 * Dec 2019: [Google Cloud Spanner Dialect for Hibernate released](https://in.relation.to/2019/12/18/google-cloud-spanner-dialect/)
 * Nov 2019: [Opening the door to more dev tools for Cloud Spanner](https://cloud.google.com/blog/products/databases/opening-the-door-to-more-dev-tools-for-cloud-spanner)
