@@ -12,17 +12,17 @@ title: "Resources"
 * [Whitepapers](#whitepapers)
 * [Libraries and ORMs](#libraries)
 * [Tools](#tools)
-* [Configuration Management](#configuration)
+* [Configuration management](#configuration)
 * [Migration](#migration)
-* [Performance and Debugging](#performance)
+* [Performance and debugging](#performance)
 
 ## Blogs {#blogs}
 
-### Technical Overview
+### Technical overview
 
 * Apr 2020: [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
-### Operational Excellence
+### Operational excellence
 
 * Jul 2020: [Cloud Spanner Change Publisher](https://medium.com/@knutolavloite/cloud-spanner-change-publisher-7fbee48f66f8) and [Cloud Spanner Change Watcher](https://medium.com/@knutolavloite/cloud-spanner-change-watcher-b77ca036459c)
 * May 2020: [Create Cloud Spanner Scheduled Backups](https://medium.com/@hengfeng/create-cloud-spanner-scheduled-backups-c6f30551a6fd)
@@ -84,7 +84,7 @@ title: "Resources"
 
 ## Libraries and ORMs {#libraries}
 
-### Client Libraries
+### Client libraries
 
 * [Authentication via Application Default Credentials (ADC)](https://cloud.google.com/docs/authentication/production)
 * [Java](https://googleapis.dev/java/google-cloud-clients/0.119.0-alpha/com/google/cloud/spanner/package-summary.html) ([tutorial](https://cloud.google.com/spanner/docs/getting-started/java))
@@ -121,7 +121,7 @@ title: "Resources"
 * [spannerz](https://github.com/rakyll/spannerz) - Query planner visualizer that also provides introspection tools for Go programs.
 * [spanner-dump](https://github.com/cloudspannerecosystem/spanner-dump) - A command-line tool to export Cloud Spanner databases in text format.
 
-## Configuration Management {#configuration}
+## Configuration management {#configuration}
 
 * [Chef](https://github.com/GoogleCloudPlatform/chef-google-spanner)
 * [Puppet](https://github.com/GoogleCloudPlatform/puppet-google-spanner)
@@ -134,7 +134,7 @@ title: "Resources"
 * [pgadapter](https://github.com/cloudspannerecosystem/pgadapter) - A proxy that translates the wire protocol from Postgres to Cloud Spanner.
 * [migrate](https://github.com/golang-migrate/migrate) - A migration tool with Spanner support.
 
-## Performance and Debugging {#performance}
+## Performance and debugging {#performance}
 
 * [Query Execution Plans](https://cloud.google.com/spanner/docs/query-execution-plans)
 * [SQL Best Practices](https://cloud.google.com/spanner/docs/sql-best-practices)
