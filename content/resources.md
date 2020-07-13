@@ -24,7 +24,7 @@ title: "Resources"
 
 ### Operational excellence
 
-* Jul 2020: [Cloud Spanner Change Publisher](https://medium.com/@knutolavloite/cloud-spanner-change-publisher-7fbee48f66f8) and [Cloud Spanner Change Watcher](https://medium.com/@knutolavloite/cloud-spanner-change-watcher-b77ca036459c)
+* Jul 2020: [Cloud Spanner Change Watcher](https://medium.com/@knutolavloite/cloud-spanner-change-watcher-b77ca036459c) and [Cloud Spanner Change Publisher](https://medium.com/@knutolavloite/cloud-spanner-change-publisher-7fbee48f66f8)
 * May 2020: [Create Cloud Spanner Scheduled Backups](https://medium.com/@hengfeng/create-cloud-spanner-scheduled-backups-c6f30551a6fd)
 * Apr 2020: [Instrumenting Cloud Spanner Go Applications with OpenCensus](https://medium.com/google-cloud/instrumenting-cloud-spanner-go-applications-with-opencensus-6e734eb4d8c8)
 * Mar 2020: [Troubleshooting Cloud Spanner Applications with OpenCensus](https://medium.com/@mayurkale22/troubleshooting-cloud-spanner-applications-with-opencensus-2cf424c4c590)
