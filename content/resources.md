@@ -36,6 +36,7 @@ title: "Resources"
 
 ### Performance
 
+* July 2020: [Cloud Spanner: Read Statistics](https://medium.com/google-cloud/cloud-spanner-read-statistics-71693d718131)
 * Jun 2020: [Increase visibility into Cloud Spanner performance with transaction stats](https://cloud.google.com/blog/products/databases/database-transaction-stats-in-spanner)
 * May 2020: [Use GFE Server-Timing Header in Cloud Spanner Debugging](https://medium.com/google-cloud/use-gfe-server-timing-header-in-cloud-spanner-debugging-d7d891a50642)
 
