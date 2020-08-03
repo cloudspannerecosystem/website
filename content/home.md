@@ -1,10 +1,10 @@
 ---
-title: "Welcome"
+title: "Cloud Spanner Ecosystem"
 type: "index"
 ---
 
-The [Cloud Spanner Ecosystem](https://github.com/cloudspannerecosystem)
-GitHub organization hosts a collection of public
+The Cloud Spanner Ecosystem [GitHub](https://github.com/cloudspannerecosystem)
+organization hosts a collection of public
 repositories that are owned-by and
 developed-for the [Google Cloud Spanner](https://cloud.google.com/spanner)
 user community.
