@@ -49,7 +49,7 @@ body {
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.5;
 }
 
@@ -62,9 +62,9 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #1a73e8;
-  text-decoration: none;
+  color: #515151;
   font-weight: bold;
+  text-decoration: none;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -80,10 +80,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   color: #000;
+  margin: 20px 0px;
 }
 h2 {
+  color: #000;
   margin-top: 1.2rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 h3 {
   margin-top: 1.2rem;
@@ -91,7 +93,7 @@ h3 {
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 /* Body text */
@@ -253,4 +255,8 @@ h1:hover .header-link svg,  h2:hover .header-link svg,  h3:hover .header-link sv
   width: 65%;
   float: left;
   margin: 50px 50px 50px 0px;
+}
+
+.index {
+  margin-top: 50px;
 }
