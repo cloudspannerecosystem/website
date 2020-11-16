@@ -6,6 +6,11 @@ title: "Projects"
   demonstrates how to use Cloud Spanner
   from the App Engine Standard with Java 11 environment.
 
+* [Autoscaler](https://github.com/cloudspannerecosystem/autoscaler)
+  is a companion tool to Cloud Spanner that allows you to automatically
+  increase or reduce the number of nodes in one or more Spanner instances,
+  based on their utilization.
+
 * [HarbourBridge](https://github.com/cloudspannerecosystem/harbourbridge)
   is a stand-alone tool for Cloud Spanner evaluation,
   using data from an existing PostgreSQL database. The tool ingests

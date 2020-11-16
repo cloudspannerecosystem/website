@@ -66,6 +66,7 @@ title: "Resources"
 * [Spanner command-line](https://github.com/cloudspannerecosystem/spanner-cli)
 * [gcloud Reference](https://cloud.google.com/sdk/gcloud/reference/spanner)
 * [Spanner Emulator](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator)
+* [Spanner Autoscaler](https://github.com/cloudspannerecosystem/autoscaler) - Automatically adjust the number of nodes in Spanner instances based on utilization.
 * [wrench](https://github.com/cloudspannerecosystem/wrench) - Schema management tool for Spanner.
 * [hammer](https://github.com/daichirata/hammer) - Schema management tool for Spanner.
 * [yo](https://github.com/cloudspannerecosystem/yo) - A command-line tool to generate Go code for Google Cloud Spanner.
