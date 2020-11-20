@@ -9,6 +9,7 @@ title: "Blog"
 
 ## Operational excellence
 
+* Oct 2020: [Scaling Cloud Spanner Instances](https://medium.com/google-cloud/scaling-cloud-spanner-instances-dec47675d1af)
 * Jul 2020: [Cloud Spanner Change Watcher](https://medium.com/@knutolavloite/cloud-spanner-change-watcher-b77ca036459c) and [Cloud Spanner Change Publisher](https://medium.com/@knutolavloite/cloud-spanner-change-publisher-7fbee48f66f8)
 * May 2020: [Create Cloud Spanner Scheduled Backups](https://medium.com/@hengfeng/create-cloud-spanner-scheduled-backups-c6f30551a6fd)
 * Apr 2020: [Instrumenting Cloud Spanner Go Applications with OpenCensus](https://medium.com/google-cloud/instrumenting-cloud-spanner-go-applications-with-opencensus-6e734eb4d8c8)
@@ -33,5 +34,8 @@ title: "Blog"
 
 ## Migration
 
+* Oct 2020: [How To Successfully Migrate Data From DynamoDB To Bigtable And Spanner](https://hackernoon.com/how-to-successfully-migrate-data-from-dynamodb-to-bigtable-and-spanner-aw1w3ty8)
+* Sep 2020: [Using DAL For Migration From DynamoDB To Spanner and Bigtable](https://hackernoon.com/using-dal-for-migration-from-dynamodb-to-spanner-and-bigtable-9hx3t2q)
+* Jul 2020: [6 Steps to Migrate to Cloud Spanner](https://medium.com/google-cloud/6-steps-to-migrate-to-cloud-spanner-8b83d497c847)
 * Feb 2020: [HarbourBridge: From PostgreSQL to Cloud Spanner](https://opensource.googleblog.com/2020/02/harbourbridge-from-postgresql-to-cloud.html)
 * Jun 2019: [Migrating from DynamoDB to Google Cloud Spanner](https://medium.com/petabytz/database-migration-migrating-from-dynamodb-to-google-cloud-spanner-part-1-ab6b8828580d)
