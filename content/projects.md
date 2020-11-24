@@ -59,6 +59,10 @@ title: "Projects"
   You can import exported databases into
   Cloud Spanner again with [spanner-cli](https://github.com/cloudspannerecosystem/spanner-cli).
 
+* [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate)
+  is a tool to delete all rows from the tables in a Cloud Spanner
+  database without deleting tables themselves.
+
 * [spool](https://github.com/cloudspannerecosystem/spool)
   is a CLI tool to manage Cloud Spanner databases for testing.
 

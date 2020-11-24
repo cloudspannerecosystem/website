@@ -73,6 +73,7 @@ title: "Resources"
 * [handy-spanner](https://github.com/gcpug/handy-spanner) - An unofficial SQLite backed Spanner emulator.
 * [spannerz](https://github.com/rakyll/spannerz) - Query planner visualizer that also provides introspection tools for Go programs.
 * [spanner-dump](https://github.com/cloudspannerecosystem/spanner-dump) - A command-line tool to export Cloud Spanner databases in text format.
+* [spanner-truncate](https://github.com/cloudspannerecosystem/spanner-truncate) - A command-line tool to delete all rows from a Cloud Spanner database without deleting tables themselves.
 
 ## Configuration management {#configuration}
 
