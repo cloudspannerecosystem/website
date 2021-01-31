@@ -27,6 +27,8 @@ title: "Blog"
 
 ## Developer productivity
 
+* Sep 2020: [Analyze running queries in Cloud Spanner to help diagnose performance issues](https://medium.com/@rghetia/analyze-running-queries-in-cloud-spanner-to-help-diagnose-performance-issues-4d8d85ccc21a)
+* Jul 2020: [Cloud Spanner: Read Statistics](https://medium.com/google-cloud/cloud-spanner-read-statistics-71693d718131)
 * Jun 2020: [DML and Mutations - a tale of two data altering techniques in Cloud Spanner](https://medium.com/google-cloud/dml-and-mutations-a-tale-of-two-data-altering-techniques-in-cloud-spanner-df13c49f2617)
 * Apr 2020: [Cloud Spanner Emulator](https://medium.com/google-cloud/cloud-spanner-emulator-bf12d141c12)
 * Dec 2019: [Google Cloud Spanner Dialect for Hibernate released](https://in.relation.to/2019/12/18/google-cloud-spanner-dialect/)
