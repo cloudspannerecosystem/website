@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  
+  <title>Projects &middot; Cloud Spanner Ecosystem </title>
+  
+
+  
+  <link rel="stylesheet" href="https://cloudspannerecosystem.dev/css/syntax.css">
+  <link rel="stylesheet" href="https://cloudspannerecosystem.dev/css/style.css">
+
+  
+  <link rel="shortcut icon" href="/img/favicon.ico">
+</head>
+<body>
+
+<div class="main">
+<div class="sidebar">
+  <img src="/img/logo.png">
+  <h1>Cloud Spanner Ecosystem</h1>
+  <p>An open source community for Cloud Spanner.</p>
+
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/projects/">Projects</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li><a href="/resources/">Resources</a></li>
+    <li><a href="https://gitter.im/cloudspannerecosystem/community">Gitter</a></li>
+    <li><a href="https://github.com/cloudspannerecosystem">GitHub</a></li>
+  </ul>
+</div>
+
+
+
+
+<div class="posts">
+	<h1>Projects</h1>
+	<div class="post-content"><ul>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/appengine-java-sample">App Engine Java Sample</a>
+demonstrates how to use Cloud Spanner
+from the App Engine Standard with Java 11 environment.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/autoscaler">Autoscaler</a>
+is a companion tool to Cloud Spanner that allows you to automatically
+increase or reduce the number of nodes in one or more Spanner instances,
+based on their utilization.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/harbourbridge">HarbourBridge</a>
+is a stand-alone tool for Cloud Spanner evaluation,
+using data from an existing PostgreSQL database. The tool ingests
+pg_dump output, automatically builds a Spanner schema, and creates
+a new Spanner database populated with data from pg_dump.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/pgadapter">PGAdapter</a>
+is a client-side Java proxy which translates
+Postgres wire protocol into the Cloud Spanner equivalent.
+By running this proxy locally, any Postgres client
+(including the SQL command-line client PSQL) should function
+seamlessly by simply pointing its outbound port to the this
+proxy’s inbound port.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/sampledb">SampleDB</a>
+allows you to quickly get a sample database
+into Cloud Spanner. It does so by loading data from a CSV file
+into a new Cloud Spanner database.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/scheduled-backups">Scheduled Backups</a>
+shows how to use Cloud Scheduler and Cloud Functions to
+configure a schedule for creating Cloud Spanner backups.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spanner-rest-cmdlets">Spanner REST Cmdlets</a>
+is a wrapper around the Cloud Spanner REST Api for PowerShell.
+It allows read / write access to Cloud Spanner using OAuth2 for
+authentication and runs on all platforms supported by PowerShell Core.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spanner-change-watcher">spanner-change-watcher</a>
+is a framework that emits events when a row has been changed in a Cloud
+Spanner database. These row change events can be captured and processed
+in-process as part of a user application, or they can be published to Google
+Cloud Pubsub for consumption by any other application.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spanner-cli">spanner-cli</a>
+is an interactive command line tool, inspired by the
+mysql utility. It allows you to control your Cloud Spanner
+databases with idiomatic database commands, such as SHOW TABLES or
+SELECT / INSERT / UPDATE / DELETE.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spanner-dump">spanner-dump</a>
+is a command line tool for exporting a Cloud Spanner
+database in text format. This tool can be used for Cloud Spanner
+service for testing purposes or databases running on
+Cloud Spanner Emulator.
+You can import exported databases into
+Cloud Spanner again with <a href="https://github.com/cloudspannerecosystem/spanner-cli">spanner-cli</a>.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spanner-truncate">spanner-truncate</a>
+is a tool to delete all rows from the tables in a Cloud Spanner
+database without deleting tables themselves.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/spool">spool</a>
+is a CLI tool to manage Cloud Spanner databases for testing.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/wrench">wrench</a>
+is a schema management tool for Cloud Spanner.
+It manages DDLs for schema migration and provides several
+schema related features like creating / deleting databases
+and loading schemas from files.</p>
+</li>
+<li>
+<p><a href="https://github.com/cloudspannerecosystem/yo">yo</a>
+is a command-line tool to generate database-specific code
+to access Cloud Spanner through Go objects instead of SQL queries.
+It does so by fetching schema metadata for a database by
+querying the information schema and applies Go templates to
+generate code / models.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+</div> 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83257159-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-83257159-3');
+</script>
+
+</body>
+</html>
