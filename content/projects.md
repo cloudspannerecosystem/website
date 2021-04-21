@@ -17,6 +17,11 @@ title: "Projects"
   pg_dump output, automatically builds a Spanner schema, and creates
   a new Spanner database populated with data from pg_dump.
 
+* [Liquibase Spanner](https://github.com/cloudspannerecosystem/liquibase-spanner)
+  is an extension adds support for Google Cloud Spanner. Include this in your
+  application project to run Liquibase database migration scripts against a
+  Google Cloud Spanner database.
+
 * [PGAdapter](https://github.com/cloudspannerecosystem/pgadapter)
   is a client-side Java proxy which translates
   Postgres wire protocol into the Cloud Spanner equivalent.
