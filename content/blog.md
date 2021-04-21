@@ -9,6 +9,7 @@ title: "Blog"
 
 ## Operational excellence
 
+* Apr 2021: [How ShareChat built scalable data-driven social media with Google Cloud](https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/databases/social-media-sharechat-migrated-legacy-databases-and-more-to-cloud/amp/)
 * Oct 2020: [Scaling Cloud Spanner Instances](https://medium.com/google-cloud/scaling-cloud-spanner-instances-dec47675d1af)
 * Jul 2020: [Cloud Spanner Change Watcher](https://medium.com/@knutolavloite/cloud-spanner-change-watcher-b77ca036459c) and [Cloud Spanner Change Publisher](https://medium.com/@knutolavloite/cloud-spanner-change-publisher-7fbee48f66f8)
 * May 2020: [Create Cloud Spanner Scheduled Backups](https://medium.com/@hengfeng/create-cloud-spanner-scheduled-backups-c6f30551a6fd)
