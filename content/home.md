@@ -12,8 +12,9 @@ user community.
 All the hosted projects are based on open source contributions.
 We’d love for you to report issues, file feature requests,
 and send pull requests (see [contributions](/contributing)).
-Note that none of the projects are officially supported by Google
-as part of the Cloud Spanner product.
+Note that none of the projects are officially supported by Google as
+part of the Cloud Spanner product, unless explicitly stated otherwise
+in that project’s README.
 
 Please [let us know](https://gitter.im/cloudspannerecosystem/community)
 if you’re interested in getting your project hosted! This will help other
